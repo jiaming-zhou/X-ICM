@@ -110,8 +110,8 @@ Please follow your VLA model's fine-tuning guidelines to fine-tune your models o
 
 ### 2️⃣ Testing Fine-tuned VLA Models
 Modify the [`custom_agent.py`](./custom_agent.py) file:
-1. Load your VLA model in the [`load_weights`](scripts/custom_agent.py#L116) function
-2. Implement VLA model inference in the [`_inference`](./scripts/custom_agent.py#L21) function, including input construction and output format conversion (link)
+1. Load your VLA model in the [`load_weights`](scripts/custom_agent.py#L116) function;
+2. Implement VLA model inference in the [`_inference`](./scripts/custom_agent.py#L21) function, including input construction and output format conversion;
 3. Run the evaluation:
     ```bash
     bash eval_CustomModel.sh seeds episodes gpu_ids
