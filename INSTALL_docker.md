@@ -9,7 +9,7 @@ Download docker Image and create Container:
 docker pull jiamingzhou2472/agnostos:v1
 
 ### initialize the container
-sudo docker run -it -v /tmp/.X11-unix/:/tmp/.X11-unix:rw -v /usr/lib/nvidia:/usr/lib/nvidia -e SDL_VIDEO_GL_DRIVER=libGL.so.1.7.0 -e DISPLAY=$DISPLAY -e NVIDIA_VISIBLE_DEVICES=all -e  NVIDIA_DRIVER_CAPABILITIES=all --gpus=all -p 6666:22 -v /path/to/source_files:/path/to/target_files --name display jiamingzhou2472/agnostos:v1 bash
+sudo docker run -it -v /tmp/.X11-unix/:/tmp/.X11-unix:rw -v /usr/lib/nvidia:/usr/lib/nvidia -e SDL_VIDEO_GL_DRIVER=libGL.so.1.7.0 -e DISPLAY=$DISPLAY -e NVIDIA_VISIBLE_DEVICES=all -e  NVIDIA_DRIVER_CAPABILITIES=all --gpus=all -p 6666:22 -v /path/to/source_files:/path/to/target_files --name agnostos jiamingzhou2472/agnostos:v1 bash
 ```
 
 After loading, use the "XICM" conda environment:

@@ -1,6 +1,6 @@
 # 🚀 AGNOSTOS: Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization
 
-[[🌐 Project Page]](https://jiaming-zhou.github.io/AGNOSTOS/)  |  [[📄 Paper]](https://arxiv.org/pdf/2505.15660)  |  [[📺 Video]](https://youtu.be/5MKlijK1gKI)
+[[🌐 Project Page]](https://jiaming-zhou.github.io/AGNOSTOS/)  |  [[📄 Paper]](https://arxiv.org/pdf/2505.15660)  |  [🤗 Huggingface Data](https://huggingface.co/datasets/Jiaming2472/AGNOSTOS)  |  [🤗 Huggingface Model](https://huggingface.co/Jiaming2472/X-ICM)  |  [[📺 Video]](https://youtu.be/5MKlijK1gKI)
 
 [Jiaming Zhou](https://jiaming-zhou.github.io/)<sup>1</sup>, [Ke Ye](https://yipko.com/about/)<sup>1</sup>, [Jiayi Liu](https://www.jiayi-liu.cn/)<sup>1</sup>, [Teli Ma](https://teleema.github.io/)<sup>1</sup>, [Zifan Wang](https://zifanw.notion.site/)<sup>1</sup>, [Ronghe Qiu](https://github.com/ConnerQiu)<sup>1</sup>, [Kun-Yu Lin](https://kunyulin.github.io/)<sup>2</sup>, [Zhilin Zhao](https://lawliet-zzl.github.io/)<sup>3</sup>, [Junwei Liang](https://junweiliang.me/)<sup>1,4</sup>
 
@@ -86,7 +86,7 @@ cd X-ICM
 bash eval_scripts/eval_XICM.sh "0,99" 25 Qwen2.5.7B.instruct 18 0,1 "lang_vis.out"
 ```
 **Reminder**: During evaluation, you need to load the Stable-Diffusion model and Qwen-LLM models from huggingface.
-You can manually download them from huggingface and load them from the local paths accordingly.
+You can manually download them from huggingface and load them from the local paths in [`load_weight func`](./main.py#L132) and [`load_weight func`](./rlbench_inference_dynamics_diffusion.py#L136), accordingly.
 
 For random selection of cross-task samples, run:
 ```bash
@@ -94,7 +94,7 @@ cd X-ICM
 bash eval_scripts/eval_XICM.sh "0,99" 25 Qwen2.5.7B.instruct 18 0,1 "random"
 ```
 
-After testing, you can use `gather_score.py` to collect and analyze the results.
+After testing, you can use [`gather_score.py`](./gather_score.py) to collect and analyze the results.
 
 ## 🎯 Benchmarking Results over all 23 unseen tasks
 We provide the testing results of our `X-ICM (7B)` and `X-ICM (72B)` models under the sub-folder `logs/`.
@@ -109,9 +109,9 @@ Due to the embodiment gap, existing VLA models need to be fine-tuned on RLBench 
 Please follow your VLA model's fine-tuning guidelines to fine-tune your models on our 18 seen tasks, and then test the models on our 23 unseen tasks.
 
 ### 2️⃣ Testing Fine-tuned VLA Models
-Modify the `custom_agent.py` file:
-1. Load your VLA model in the `load_weights` function (Line 116)
-2. Implement VLA model inference in the `_inference` function, including input construction and output format conversion (Line 21)
+Modify the [`custom_agent.py`](./custom_agent.py) file:
+1. Load your VLA model in the [`load_weights`](scripts/custom_agent.py#L116) function
+2. Implement VLA model inference in the [`_inference`]((scripts/custom_agent.py#L21)) function, including input construction and output format conversion (link)
 3. Run the evaluation:
     ```bash
     bash eval_CustomModel.sh seeds episodes gpu_ids
@@ -124,7 +124,7 @@ Modify the `custom_agent.py` file:
 
 💡 Note: Different VLA models may require different input image sizes (default is 256x256). 
 
-💡 Please modify `IMAGE_SIZE` in `main_custom.py` accordingly.
+💡 Please modify [`IMAGE_SIZE`](./main_custom.py#L32) in [`main_custom.py`](./main_custom.py) accordingly.
 
 
 
