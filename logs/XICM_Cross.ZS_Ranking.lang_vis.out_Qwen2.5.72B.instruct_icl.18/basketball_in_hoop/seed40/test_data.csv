@@ -1,0 +1,28 @@
+log_message
+Evaluating basketball_in_hoop | Episode 0 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 1 | Step: 7 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 2 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 3 | Step: 4 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 4 | Step: 4 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 5 | Step: 18 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 6 | Step: 1 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 7 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 8 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 9 | Step: 25 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 10 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 11 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 12 | Step: 4 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 13 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 14 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 15 | Step: 15 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 16 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 17 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 18 | Step: 4 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 19 | Step: 4 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 20 | Step: 5 | Score: 100.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 21 | Step: 25 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 22 | Step: 25 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 23 | Step: 4 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Evaluating basketball_in_hoop | Episode 24 | Step: 15 | Score: 0.0 | Lang Goal: put the ball in the hoop
+Finished basketball_in_hoop | Final Score: 44.0
+/remote-home/jiamingz/projects/roboprompt/logs,44.0,8.4,210

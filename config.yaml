@@ -1,0 +1,31 @@
+method:
+    name: "X-CIM"
+
+rlbench:
+    task_name: "close_jar"
+    cameras: [front,left_shoulder,right_shoulder,wrist]
+    tasks: [close_jar]
+    demo_path: data/unseen_tasks/test
+    episode_length: 25
+    time_in_state: True
+    headless: True
+
+framework:
+    gpu: 0
+    logdir: logs
+    start_seed: 0
+    record_every_n: 5
+    eval_envs: 1
+    eval_from_eps_number: 0
+    eval_episodes: 2
+    eval_save_metrics: True
+    demo_num_per_icl: 10
+    ranking_method: "lang_vis.out"
+    action_chunk_length: 30
+
+cinematic_recorder:
+    enabled: False
+    camera_resolution: [1280, 720]
+    fps: 30
+    rotate_speed: 0.005
+    save_path: 'logs/videos/'

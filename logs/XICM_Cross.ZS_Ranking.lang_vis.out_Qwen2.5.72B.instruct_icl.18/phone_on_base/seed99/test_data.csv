@@ -1,0 +1,28 @@
+log_message
+Evaluating phone_on_base | Episode 0 | Step: 5 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 1 | Step: 6 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 2 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 3 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 4 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 5 | Step: 6 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 6 | Step: 15 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 7 | Step: 6 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 8 | Step: 5 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 9 | Step: 15 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 10 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 11 | Step: 7 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 12 | Step: 16 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 13 | Step: 5 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 14 | Step: 6 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 15 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 16 | Step: 7 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 17 | Step: 15 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 18 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 19 | Step: 8 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 20 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 21 | Step: 4 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 22 | Step: 15 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 23 | Step: 5 | Score: 100.0 | Lang Goal: put the phone on the base
+Evaluating phone_on_base | Episode 24 | Step: 25 | Score: 0.0 | Lang Goal: put the phone on the base
+Finished phone_on_base | Final Score: 68.0
+/remote-home/jiamingz/projects/roboprompt/logs,68.0,13.84,346

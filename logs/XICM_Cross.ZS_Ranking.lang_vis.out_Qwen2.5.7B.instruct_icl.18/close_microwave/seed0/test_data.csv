@@ -1,0 +1,28 @@
+log_message
+Evaluating close_microwave | Episode 0 | Step: 1 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 1 | Step: 10 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 2 | Step: 6 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 3 | Step: 4 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 4 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 5 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 6 | Step: 15 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 7 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 8 | Step: 15 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 9 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 10 | Step: 8 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 11 | Step: 4 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 12 | Step: 18 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 13 | Step: 13 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 14 | Step: 13 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 15 | Step: 21 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 16 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 17 | Step: 13 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 18 | Step: 17 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 19 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 20 | Step: 6 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 21 | Step: 6 | Score: 100.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 22 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 23 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Evaluating close_microwave | Episode 24 | Step: 25 | Score: 0.0 | Lang Goal: close microwave
+Finished close_microwave | Final Score: 52.0
+/remote-home/jiamingz/projects/roboprompt/logs,52.0,15.8,395

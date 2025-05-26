@@ -1,0 +1,28 @@
+log_message
+Evaluating put_books_on_bookshelf | Episode 0 | Step: 10 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 1 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 2 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 3 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 4 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 5 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 6 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 7 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 8 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 9 | Step: 4 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 10 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 11 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 12 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 13 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 14 | Step: 15 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 15 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 16 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 17 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 18 | Step: 11 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 19 | Step: 8 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 20 | Step: 4 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 21 | Step: 7 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 22 | Step: 25 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 23 | Step: 6 | Score: 100.0 | Lang Goal: put 1 books on bookshelf
+Evaluating put_books_on_bookshelf | Episode 24 | Step: 4 | Score: 0.0 | Lang Goal: put 1 books on bookshelf
+Finished put_books_on_bookshelf | Final Score: 4.0
+/remote-home/jiamingz/projects/roboprompt/logs,4.0,18.76,469

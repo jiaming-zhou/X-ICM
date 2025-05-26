@@ -1,0 +1,24 @@
+put_toilet_roll_on_stand: 4.00
+put_knife_on_chopping_board: 68.00
+close_fridge: 12.00
+close_microwave: 72.00
+close_laptop_lid: 36.00
+phone_on_base: 68.00
+toilet_seat_down: 52.00
+lamp_off: 96.00
+lamp_on: 80.00
+put_books_on_bookshelf: 4.00
+put_umbrella_in_umbrella_stand: 0.00
+open_grill: 4.00
+put_rubbish_in_bin: 24.00
+take_usb_out_of_computer: 100.00
+take_lid_off_saucepan: 16.00
+take_plate_off_colored_dish_rack: 0.00
+basketball_in_hoop: 24.00
+scoop_with_spatula: 0.00
+straighten_rope: 12.00
+turn_oven_on: 16.00
+beat_the_buzz: 8.00
+water_plants: 0.00
+unplug_charger: 0.00
+averaged success rate: 30.26

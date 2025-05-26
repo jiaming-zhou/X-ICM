@@ -1,0 +1,28 @@
+log_message
+Evaluating close_fridge | Episode 0 | Step: 4 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 1 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 2 | Step: 3 | Score: 100.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 3 | Step: 4 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 4 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 5 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 6 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 7 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 8 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 9 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 10 | Step: 4 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 11 | Step: 1 | Score: 100.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 12 | Step: 11 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 13 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 14 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 15 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 16 | Step: 3 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 17 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 18 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 19 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 20 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 21 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 22 | Step: 1 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 23 | Step: 25 | Score: 0.0 | Lang Goal: close fridge
+Evaluating close_fridge | Episode 24 | Step: 4 | Score: 0.0 | Lang Goal: close fridge
+Finished close_fridge | Final Score: 8.0
+/remote-home/jiamingz/projects/roboprompt/logs,8.0,3.0,75

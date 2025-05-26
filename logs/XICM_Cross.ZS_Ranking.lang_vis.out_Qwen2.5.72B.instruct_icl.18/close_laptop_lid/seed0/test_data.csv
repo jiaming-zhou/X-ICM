@@ -1,0 +1,28 @@
+log_message
+Evaluating close_laptop_lid | Episode 0 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 1 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 2 | Step: 22 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 3 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 4 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 5 | Step: 6 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 6 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 7 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 8 | Step: 19 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 9 | Step: 11 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 10 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 11 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 12 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 13 | Step: 21 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 14 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 15 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 16 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 17 | Step: 10 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 18 | Step: 20 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 19 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 20 | Step: 10 | Score: 100.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 21 | Step: 23 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 22 | Step: 23 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 23 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Evaluating close_laptop_lid | Episode 24 | Step: 25 | Score: 0.0 | Lang Goal: close laptop lid
+Finished close_laptop_lid | Final Score: 32.0
+/remote-home/jiamingz/projects/roboprompt/logs,32.0,21.6,540

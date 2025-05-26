@@ -1,0 +1,28 @@
+log_message
+Evaluating turn_oven_on | Episode 0 | Step: 13 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 1 | Step: 4 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 2 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 3 | Step: 11 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 4 | Step: 14 | Score: 100.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 5 | Step: 11 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 6 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 7 | Step: 1 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 8 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 9 | Step: 1 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 10 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 11 | Step: 24 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 12 | Step: 6 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 13 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 14 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 15 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 16 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 17 | Step: 8 | Score: 100.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 18 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 19 | Step: 8 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 20 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 21 | Step: 1 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 22 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 23 | Step: 6 | Score: 100.0 | Lang Goal: turn on the oven
+Evaluating turn_oven_on | Episode 24 | Step: 25 | Score: 0.0 | Lang Goal: turn on the oven
+Finished turn_oven_on | Final Score: 12.0
+/remote-home/jiamingz/projects/roboprompt/logs,12.0,16.32,408

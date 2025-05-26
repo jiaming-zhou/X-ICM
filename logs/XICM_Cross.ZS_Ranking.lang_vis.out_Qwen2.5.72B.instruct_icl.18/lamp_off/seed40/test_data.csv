@@ -1,0 +1,28 @@
+log_message
+Evaluating lamp_off | Episode 0 | Step: 6 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 1 | Step: 2 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 2 | Step: 25 | Score: 0.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 3 | Step: 5 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 4 | Step: 7 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 5 | Step: 6 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 6 | Step: 8 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 7 | Step: 8 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 8 | Step: 25 | Score: 0.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 9 | Step: 13 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 10 | Step: 25 | Score: 0.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 11 | Step: 5 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 12 | Step: 25 | Score: 0.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 13 | Step: 9 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 14 | Step: 3 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 15 | Step: 10 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 16 | Step: 6 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 17 | Step: 5 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 18 | Step: 5 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 19 | Step: 9 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 20 | Step: 5 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 21 | Step: 6 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 22 | Step: 4 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 23 | Step: 5 | Score: 100.0 | Lang Goal: turn off the light
+Evaluating lamp_off | Episode 24 | Step: 6 | Score: 100.0 | Lang Goal: turn off the light
+Finished lamp_off | Final Score: 84.0
+/remote-home/jiamingz/projects/roboprompt/logs,84.0,9.32,233
