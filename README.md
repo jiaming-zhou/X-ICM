@@ -122,7 +122,8 @@ Modify the `custom_agent.py` file:
     bash eval_scripts/eval_CustomModel.sh "0,99" 25 0,1
     ```
 
-💡 Note: Different VLA models may require different input image sizes (default is 256x256). Please modify `IMAGE_SIZE` in `main_custom.py` accordingly.
+💡 Note: Different VLA models may require different input image sizes (default is 256x256). 
+Please modify `IMAGE_SIZE` in `main_custom.py` accordingly.
 
 ## 🙏 Acknowledgments
 This repository is built upon the [RoboPrompt](https://github.com/davidyyd/roboprompt). Some resources from [RVT](https://github.com/NVlabs/RVT) and [RLBench](https://github.com/stepjam/RLBench) are used in this work.

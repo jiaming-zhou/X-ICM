@@ -1,4 +1,4 @@
-## 📥 Repository Setup
+Clone the X-ICM repo:
 ```bash
 git clone git@github.com:jiaming-zhou/X-ICM.git
 ```
