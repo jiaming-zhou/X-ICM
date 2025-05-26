@@ -55,6 +55,7 @@ class base_task_handler:
         all_demo_paths = all_diffusion_features['all_demo_paths']
         
         if "lang_vis.out" in ranking_metric:
+            
             all_input_image_feats = all_diffusion_features['all_input_image_feats']
             all_output_image_feats = all_diffusion_features['all_output_image_feats']
             all_prompt_feats = all_diffusion_features['all_prompt_feats']

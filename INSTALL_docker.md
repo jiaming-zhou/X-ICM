@@ -23,4 +23,7 @@ cd X-ICM
 pip install --no-deps -e YARR
 pip install -e PyRep
 pip install -e RLBench
+
+### you can disable NCCL from using shared memory
+export NCCL_SHM_DISABLE=1
 ```

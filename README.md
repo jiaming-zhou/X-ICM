@@ -64,7 +64,7 @@ ln -s /path/to/dynamics_diffusion data/
 ```
 
 ### 2️⃣ Evaluation
-Run script `eval_XICM.sh` with the below parameters:
+Run script [`eval_XICM.sh`](./eval_scripts/eval_XICM.sh) with the below parameters:
 ```bash
 ### set seed numbers for different runs
 seeds: [example: "0,99"]
@@ -86,7 +86,7 @@ cd X-ICM
 bash eval_scripts/eval_XICM.sh "0,99" 25 Qwen2.5.7B.instruct 18 0,1 "lang_vis.out"
 ```
 **Reminder**: During evaluation, you need to load the Stable-Diffusion model and Qwen-LLM models from huggingface.
-You can manually download them from huggingface and load them from the local paths in [`load_weight func`](./main.py#L132) and [`load_weight func`](./rlbench_inference_dynamics_diffusion.py#L136), accordingly.
+You can manually download them from huggingface and load them from the local paths in [`load_weight func`](./main.py#L132) and [`model_path`](./rlbench_inference_dynamics_diffusion.py#L136), accordingly.
 
 For random selection of cross-task samples, run:
 ```bash
@@ -111,7 +111,7 @@ Please follow your VLA model's fine-tuning guidelines to fine-tune your models o
 ### 2️⃣ Testing Fine-tuned VLA Models
 Modify the [`custom_agent.py`](./custom_agent.py) file:
 1. Load your VLA model in the [`load_weights`](scripts/custom_agent.py#L116) function
-2. Implement VLA model inference in the [`_inference`]((scripts/custom_agent.py#L21)) function, including input construction and output format conversion (link)
+2. Implement VLA model inference in the [`_inference`](./scripts/custom_agent.py#L21) function, including input construction and output format conversion (link)
 3. Run the evaluation:
     ```bash
     bash eval_CustomModel.sh seeds episodes gpu_ids
