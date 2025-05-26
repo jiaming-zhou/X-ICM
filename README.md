@@ -123,7 +123,10 @@ Modify the `custom_agent.py` file:
     ```
 
 💡 Note: Different VLA models may require different input image sizes (default is 256x256). 
-Please modify `IMAGE_SIZE` in `main_custom.py` accordingly.
+
+💡 Please modify `IMAGE_SIZE` in `main_custom.py` accordingly.
+
+
 
 ## 🙏 Acknowledgments
 This repository is built upon the [RoboPrompt](https://github.com/davidyyd/roboprompt). Some resources from [RVT](https://github.com/NVlabs/RVT) and [RLBench](https://github.com/stepjam/RLBench) are used in this work.
