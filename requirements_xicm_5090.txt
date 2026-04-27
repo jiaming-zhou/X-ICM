@@ -1,0 +1,17 @@
+hydra-core==1.3.2
+omegaconf
+natsort==8.4.0
+pyquaternion
+qwen-vl-utils==0.0.11
+openai
+matplotlib
+imageio
+imageio-ffmpeg
+moviepy
+opencv-python
+pyrender==0.1.45
+tensorboard
+timeout-decorator
+accelerate
+pandas==2.2.2
+numpy==2.2.6

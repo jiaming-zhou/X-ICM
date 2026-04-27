@@ -172,8 +172,9 @@ def summarize_scores(folder_path, prefix=""):
 
 
 
-exp_path="logs/XICM_Cross.ZS_Ranking.lang_vis.out_Qwen2.5.7B.instruct_icl.18"
+# exp_path="logs/XICM_Cross.ZS_Ranking.lang_vis.out_Qwen2.5.7B.instruct_icl.18"
 # exp_path="logs/X_ICM_Cross.ZS_Ranking.lang_vis.out_Qwen2.5.72B.instruct_icl.18"
+exp_path="logs/XICM_Cross.ZS_Ranking.random_Qwen2.5.7B.instruct_icl.1_test"
 
 prefix="unseen_"
 # prefix="seen_"

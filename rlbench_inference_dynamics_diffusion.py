@@ -80,7 +80,7 @@ def load_pipeline(ckpt_folder, model_id="stabilityai/stable-diffusion-2", device
     unet = UNet2DConditionModel.from_pretrained(latest_checkpoint, subfolder="unet")
     #source https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_instruct_pix2pix.py
     pipe = StableDiffusionInstructPix2PixPipeline.from_pretrained(
-        model_id, unet=unet, torch_dtype=torch.float32, use_safetensors=True
+        model_id, unet=unet, torch_dtype=torch.float16, use_safetensors=True
     ).to(device=device)
     generator = torch.Generator(device=device)
     generator.manual_seed(seed)
@@ -133,11 +133,12 @@ def decode_one_latent(pipe, latent, output_type="np"):
 
 ### if you want to load stabilityai/stable-diffusion-2 from local file
 ### TODO: download from huggingface, change the model_path
-model_path="/remote-home/jiamingz/projects/huggingface/hub/models--stabilityai--stable-diffusion-2/snapshots/1e128c8891e52218b74cde8f26dbfc701cb99d79"
+# model_path="/remote-home/jiamingz/projects/huggingface/hub/models--stabilityai--stable-diffusion-2/snapshots/1e128c8891e52218b74cde8f26dbfc701cb99d79"
+model_path="Manojb/stable-diffusion-2-base"
 
 ### load model from huggingface if not loaded from local file
-if not os.path.exists(model_path):
-    model_path="stabilityai/stable-diffusion-2"
+# if not os.path.exists(model_path):
+#     model_path="stabilityai/stable-diffusion-2"
 
 
 ckpt_folder=os.path.join(PROJECT_ROOT, "data/dynamics_diffusion/checkpoint-20000")

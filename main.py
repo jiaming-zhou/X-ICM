@@ -159,8 +159,10 @@ def load_weight(savedir):
     llm = LLM(
         model=model_name,
         tensor_parallel_size = torch.cuda.device_count(),
-        # max_model_len=16464,
+        max_model_len=16464,
+        # max_model_len=4096,
         gpu_memory_utilization=0.8,
+        # gpu_memory_utilization=0.6,
         trust_remote_code=False,
     )
     processor = AutoProcessor.from_pretrained(model_name,

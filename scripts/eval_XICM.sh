@@ -77,7 +77,20 @@ method="XICM_Cross.ZS_Ranking.${ranking_method}_${modelname}_icl.${demo_num_per_
 
 for seed in "${seeds[@]}"; do
     echo "eval using ${seed}..."
-    CUDA_VISIBLE_DEVICES=$gpu_id xvfb-run -a python main.py \
+
+    # Without Xvfb:
+    # CUDA_VISIBLE_DEVICES=$gpu_id python main.py \
+    #     "method.name=${method}" \
+    #     "rlbench.tasks=[$tasks_string]" \
+    #     "framework.start_seed=${seed}" \
+    #     "framework.eval_episodes=${episodes}" \
+    #     "framework.demo_num_per_icl=${demo_num_per_icl}" \
+    #     "framework.ranking_method=${ranking_method}"
+
+    # With Xvfb:
+    CUDA_VISIBLE_DEVICES=$gpu_id xvfb-run -a \
+        -s "-screen 0 1024x768x24 +extension GLX +render -noreset" \
+        python main.py \
         "method.name=${method}" \
         "rlbench.tasks=[$tasks_string]" \
         "framework.start_seed=${seed}" \
